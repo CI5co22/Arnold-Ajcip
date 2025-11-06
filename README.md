@@ -22,7 +22,7 @@ Soy un estudiante apasionado por el **desarrollo web**, con experiencia en **PHP
 ## 🎯 Objetivos  
 - Seguir creciendo como desarrollador  
 - Construir proyectos que combinen **backend sólido** y **frontend eficiente**  
-- Colaborar en proyectos open source y mejorar mis habilidades en equipo  
+- Colaborar en proyectos y mejorar mis habilidades en equipo  
 - Aprender nuevas habilidades y tecnologías para mantenerme en constante crecimiento  
 ---
 
